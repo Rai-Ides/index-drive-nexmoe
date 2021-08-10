@@ -979,7 +979,6 @@ function file_video(path) {
             tracks: [{
                 kind: 'captions',
                 label: 'default',
-                srclang: 'cn',
                 src: urlPath + fileName + '.vtt',
                 default: true,
             }, ],
