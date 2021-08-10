@@ -992,7 +992,6 @@ function file_video(path) {
         autoplay: true,
         theme: '#b7daff',
         loop: true,
-        lang: 'zh-cn',
         screenshot: true,
         hotkey: true,
         preload: 'auto',
